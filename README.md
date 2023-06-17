@@ -1,0 +1,1 @@
+# js-auto-configuration-for-rule-management
