@@ -1,4 +1,4 @@
-const AutoConfiguration = require("../src/auto-configuration")
+const {AutoConfiguration} = require("js-auto-configuration-for-rule-management")
 
 describe('this is to get folder that holds all the rules of the project', function () {
     beforeEach(() => {

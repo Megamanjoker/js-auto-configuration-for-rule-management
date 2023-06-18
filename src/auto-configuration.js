@@ -1,4 +1,4 @@
-const RuleManager = require("js-rule-management/src/rule-manager");
+const {RuleManager} = require("js-rule-management");
 const {globSync} = require('glob');
 
 module.exports = class AutoConfiguration {
